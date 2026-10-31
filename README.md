@@ -39,6 +39,12 @@ Cada programa tiene su propio método `main`, por lo que pueden ejecutarse indiv
 
 **Flyweight inicial:** muestra `false` porque los carnets comparados tienen arreglos de logotipo diferentes.
 
+## Integrantes
+
+- Jhon Ángel Arroyo Baldovino
+- Carlos Andrés Correa Jiménez
+- Amehd Antonio Vélez López
+
 **Flyweight refactorizado:** muestra `true` porque comparten el mismo objeto de diseño. Además, indica que solo se almacenó un diseño azul.
 
 **Prototype inicial:** muestra los permisos configurados manualmente para cada estudiante.
